@@ -1,7 +1,5 @@
 package com.example.myapplication
 
-import kotlin.math.absoluteValue
-
 data class User (var id: Long, var name: String) // classe que armazena dados
 
 fun main(){
