@@ -10,7 +10,7 @@ fun main() {
     println(newFruits)
 
     // maps, hasmaps ou dictionaries
-    val week = mapOf(1 to "sogunda", 2 to "terça", 3 to "quarta")
+    val week = mapOf(1 to "segunda", 2 to "terça", 3 to "quarta")
 
     for(key in week.keys) {
         println(week[key])
